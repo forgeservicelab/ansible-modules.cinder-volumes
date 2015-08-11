@@ -11,7 +11,7 @@ These modules require python-novaclient and python-cinderclient
 License
 -------
 
-GPLv3
+MIT
 
 Author Information
 ------------------
